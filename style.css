@@ -1,0 +1,21 @@
+/* Custom Styles */
+.hero {
+    background-size: cover;
+    background-position: center;
+}
+
+.about img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.contact form {
+    max-width: 600px;
+    margin: 0 auto;
+}
